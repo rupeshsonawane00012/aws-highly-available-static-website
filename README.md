@@ -33,6 +33,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 ### Resource Flow
 ![Resource Flow](screenshots/resource%20flow.png)
 
+
 ### Web Server Setup
 - Launched Ubuntu EC2
 - Installed Nginx
