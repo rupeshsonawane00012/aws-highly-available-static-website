@@ -53,7 +53,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Registered instances
 - Configured ALB listener
  ### Load Balancer
-![Load Balancer](screebshot/load-balancer.png)
+![Load Balancer](screenshot/load-balancer.png)
 
 
 ## Outcome
