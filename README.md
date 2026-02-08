@@ -38,7 +38,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Installed Nginx
 - Deployed custom HTML page
 - ### EC2 Instances
-![EC2 Instances](screenshots/2 instances.png)
+![EC2 Instances](screenshots/2-instances.png)
 
 ### High Availability
 - Created AMI
