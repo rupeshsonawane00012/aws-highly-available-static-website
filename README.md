@@ -45,7 +45,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Created AMI
 - Launched multiple EC2 instances
 - ### AnMI Created
-![AMI](screeshots/%20ami.png)
+![AMI](screeshots/ami.png)
 
 
 ### Load Balancing
