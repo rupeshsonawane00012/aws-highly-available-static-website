@@ -30,23 +30,40 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Created two public subnets in different AZs
 - Attached Internet Gateway
 - Configured route tables
+- ### Resource Flow
+![Resource Flow](screenshots/resource-flow.png)
 
 ### Web Server Setup
 - Launched Ubuntu EC2
 - Installed Nginx
 - Deployed custom HTML page
+- ### EC2 Instances
+![EC2 Instances](screenshots/2-instances.png)
 
 ### High Availability
 - Created AMI
 - Launched multiple EC2 instances
+- ### AnMI Created
+![AMI](screeshots/ami.png)
+
 
 ### Load Balancing
 - Created Target Group
 - Registered instances
 - Configured ALB listener
+  ### Load Balancer
+![Load Balancer](screenshots/load-balancer.png)
+
 
 ## Outcome
 Achieved fault tolerance and traffic distribution across multiple EC2 instances.
+
+### Web Server 1
+![Web 1](screenshots/web-1.png
+### Web Server 2
+![Web 2](screenshots/web-2.png)
+
+
 
 ## Skills Demonstrated
 - AWS Networking
