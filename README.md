@@ -30,29 +30,29 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Created two public subnets in different AZs
 - Attached Internet Gateway
 - Configured route tables
-- ### Resource Flow
-![Resource Flow](screenshots/resource-flow.png)
+### Resource Flow
+![Resource Flow](screenshots/resource%20flow.png)
 
 ### Web Server Setup
 - Launched Ubuntu EC2
 - Installed Nginx
 - Deployed custom HTML page
 ### EC2 Instances
-![EC2 Instances](screenshots/2-instances.png)
+![EC2 Instances](screenshots/2%20instances.png)
 
 ### High Availability
 - Created AMI
 - Launched multiple EC2 instances
 - ### AnMI Created
-![AMI](screeshots/ami.png)
+![AMI](screeshots/%20ami.png)
 
 
 ### Load Balancing
 - Created Target Group
 - Registered instances
 - Configured ALB listener
-  ### Load Balancer
-![Load Balancer](screenshots/load-balancer.png)
+ ### Load Balancer
+![Load Balancer](screenshots/lb%20(2).png)
 
 
 ## Outcome
