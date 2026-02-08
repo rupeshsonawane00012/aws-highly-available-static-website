@@ -45,7 +45,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Created AMI
 - Launched multiple EC2 instances
 - ### AnMI Created
-![AMI](screeshots/ami.png)
+![AMI](screeshot/ami.png)
 
 
 ### Load Balancing
@@ -60,10 +60,10 @@ User → Application Load Balancer → EC2 Instances → Nginx
 Achieved fault tolerance and traffic distribution across multiple EC2 instances.
 
 ### Web Server 1
-![Web 1](screenshots/web-1.png)
+![Web 1](screenshot/web-1.png)
 
 ### Web Server 2
-![Web 2](screenshots/web-2.png)
+![Web 2](screenshot/web-2.png)
 
 
 
