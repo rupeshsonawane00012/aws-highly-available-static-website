@@ -37,7 +37,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Launched Ubuntu EC2
 - Installed Nginx
 - Deployed custom HTML page
-- ### EC2 Instances
+### EC2 Instances
 ![EC2 Instances](screenshots/2-instances.png)
 
 ### High Availability
