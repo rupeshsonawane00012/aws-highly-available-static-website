@@ -31,7 +31,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 - Attached Internet Gateway
 - Configured route tables
 ### Resource Flow
-![Resource Flow](screenshots/resource%20flow.png)
+![Resource Flow](screenshot/resource-flow.png)
 
 
 ### Web Server Setup
