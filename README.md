@@ -44,7 +44,7 @@ User → Application Load Balancer → EC2 Instances → Nginx
 ### High Availability
 - Created AMI
 - Launched multiple EC2 instances
-- ### AnMI Created
+- ### AMI Created
 ![AMI](screenshot/ami.png)
 
 
